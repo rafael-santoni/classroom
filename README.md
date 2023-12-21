@@ -5,6 +5,7 @@ Neste repositório erei armazenar alguns projetos que criei durante as aulas dos
 ## Projeto Vagas
 
 Link do deploy: https://rafasantoni.heliohost.us/_classroom/projeto-vagas/
+- utilize o login: teste@teste.com e a senha: teste
 
 ## Projeto Consulta CNPJ
 
