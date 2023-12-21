@@ -4,8 +4,8 @@ Neste repositório erei armazenar alguns projetos que criei durante as aulas dos
 
 ## Projeto Vagas
 
-Link do deploy: https://rafasantoni.heliohost.us/_classroom/vagas/
+Link do deploy: https://rafasantoni.heliohost.us/_classroom/projeto-vagas/
 
 ## Projeto Consulta CNPJ
 
-Link do deploy: https://rafasantoni.heliohost.us/_classroom/consulta-cnpj/
+Link do deploy: https://rafasantoni.heliohost.us/_classroom/projeto-consulta-cnpj/
